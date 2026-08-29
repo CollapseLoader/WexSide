@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "wexside",
-  "version": "1.0.0-recovered",
+  "version": "1.0.0",
   "name": "WexSide",
   "description": "WexSide 1.21.11.",
   "environment": "client",
